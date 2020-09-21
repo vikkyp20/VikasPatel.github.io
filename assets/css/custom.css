@@ -70,6 +70,7 @@ body, input, select, button {
 }
 .btn-primary{
 	background-color: #98C9A3;
+	align-self: baseline;
 	
 }
 
