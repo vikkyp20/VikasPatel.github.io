@@ -1,6 +1,6 @@
 $(function () {
 	$("nav")
-		.css("display", "none")
+		.css("display", "show")
 		.removeClass("hidden");
 	$(window).scroll(function () {
 		// find the trigger point.
