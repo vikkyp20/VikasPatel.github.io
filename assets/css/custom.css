@@ -60,5 +60,8 @@ body, input, select, button {
 	left: 0;
 	min-width: 100%;
 	height: 740px;	
+	background-color: rgba(0, 0, 0, 0.75);
+
 }
+
 
