@@ -59,9 +59,14 @@ body, input, select, button {
 	position: absolute;
 	left: 0;
 	min-width: 100%;
-	height: 740px;	
+	height: 730px;	
 	background-color: rgba(0, 0, 0, 0.75);
 
 }
-
+a {
+	
+}
+.btn-primary{
+	background-color: #98C9A3;
+}
 
